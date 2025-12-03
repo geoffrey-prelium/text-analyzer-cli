@@ -1,4 +1,3 @@
-```
 # 📂 TextAnalyzer CLI
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Python](https://img.shields.io/badge/Python-3.x-yellow) ![License](https://img.shields.io/badge/License-MIT-green)

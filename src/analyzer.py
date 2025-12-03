@@ -12,3 +12,16 @@ def read_file(path):
     except FileNotFoundError:
         print(f"Erreur critique : Le fichier '{path}' n'a pas été trouvé.")
         return None
+    
+def count_elements(text):
+    """
+    Retourne un dictionnaire avec le nombre de mots et de caractères.
+    """
+    if text is None:
+        return {"words": 0, "chars": 0}
+        
+    words = text.split() # Découpe le texte par espace
+    return {
+        "words": len(words),
+        "chars": len(text)
+    }
