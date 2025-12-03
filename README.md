@@ -39,7 +39,7 @@ python src/main.py data/test.txt
 --- Analyse de data/test.txt ---
 Nombre de caractères : 38
 Nombre de mots       : 7
-```
+
 
 ## 👤 Auteur
 
@@ -47,8 +47,8 @@ Nombre de mots       : 7
 
 * GitHub: [@geoffrey-prelium](https://github.com/geoffrey-prelium)
 
----
+
 
 *Projet réalisé dans le cadre du Bootcamp Git & Ligne de Commande.*
 
-```
+
